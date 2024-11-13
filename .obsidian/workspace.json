@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "fbc881269c67f3f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29e2421ae2ecf4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564f006eabbe80e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "时间目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "时间目录"
+            }
+          },
+          {
+            "id": "adc57ca197994ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "时间目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "时间目录"
+            }
+          },
+          {
+            "id": "5a81ced1e3f3b990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书房文章/2017/《手银》连载08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《手银》连载08"
+            }
+          },
+          {
+            "id": "6f82fbbc6424589c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "瞎想以下 用OBSIDIAN笔记工具+GITHUB搭建新的交流平台.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "瞎想以下 用OBSIDIAN笔记工具+GITHUB搭建新的交流平台"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51cf4e121f3a6cf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "59a576cab8faaab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d646ea81588d3745",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a291714a9581e479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "茅台",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c963c02506add5be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd384788d4ce8810",
+    "type": "split",
+    "children": [
+      {
+        "id": "a18cd7d71602b530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bdc154a2dd9b5ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "从雅砻江三季报说起3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 从雅砻江三季报说起3"
+            }
+          },
+          {
+            "id": "44ad5cb20b5d6805",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "从雅砻江三季报说起3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 从雅砻江三季报说起3"
+            }
+          },
+          {
+            "id": "f1b6cc466a5aac5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01e6ee74cc9c331c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "从雅砻江三季报说起3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 从雅砻江三季报说起3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f82fbbc6424589c",
+  "lastOpenFiles": [
+    "书房文章/2017/《手银》连载08.md",
+    "瞎想以下 用OBSIDIAN笔记工具+GITHUB搭建新的交流平台.md",
+    "书房文章/2017/《手银》连载09.md",
+    "书房文章/2017/《手银》连载10.md",
+    "书房文章/2017/《手银》连载01.md",
+    "时间目录.md",
+    "书房文章/2017/《手银》连载18.md",
+    "书房文章/2017/年报浅印象6.md",
+    "attachment/27c8731c08e88753a8b92a0433bb1ef1.jpg",
+    "书房文章/2017/年报浅印象5.md",
+    "attachment/76fc9da400feb8342ad06b0906479d4e.jpg",
+    "attachment/077be2459f7c60742ceaa80546f43521.jpg",
+    "attachment/d5d48dc83866c4743e772f3796007f87.jpg",
+    "attachment/c87c6bdc8411e0c33914a1ba6e62c4aa.jpg",
+    "书房文章/2017/年报浅印象4.md",
+    "attachment/3f21cccfdf14d4b452732394f276567d.jpg",
+    "attachment/64f6b00b7146c93c8a2df845fbe4156d.jpg",
+    "书房文章/2017/年报浅印象.md",
+    "书房文章/2017/宏观的幽默.md",
+    "书房文章/2017/1月小结.md",
+    "attachment/37c682f64a61888a63f5f27bf0285ccf.jpg",
+    "书房文章/2017/一把梭.md",
+    "书房文章/2017/《手银》连载20.md",
+    "attachment/b4a131d07d2b0776ba2f739b0d3406b4 1.jpg",
+    "attachment/b4a131d07d2b0776ba2f739b0d3406b4.jpg",
+    "书房文章/2017/《手银》连载19.md",
+    "书房文章/2017/工匠精神话唐朝（总第117期）.md",
+    "书房文章/2017/年报浅印象3.md",
+    "书房文章/2017/年报浅印象2.md",
+    "书房文章/2017/《手银》连载16.md",
+    "书房文章/2017/《手银》连载15.md",
+    "书房文章/2017/《手银》连载14.md",
+    "书房文章/2017/《手银》连载13.md",
+    "书房文章/2017/《手银》连载12.md",
+    "书房文章/2017/聊聊国投经营数据.md",
+    "书房文章/2017/《手银》连载11.md",
+    "书房文章/2017",
+    "书房文章/2016",
+    "attachment",
+    "书房文章"
+  ]
+}
